@@ -1,0 +1,3 @@
+ネットワーク設定:世界 キーワード: 441 / Global Network Keyword: 441
+"!join <名前> -r <地域> -c <一言>"でミニ大会エントリー
+"!join <name> -r <region> -c <comment>" to sign up for the mini-tournament

@@ -1,0 +1,154 @@
+{
+    "Clock": {
+        "key": "clock",
+        "type": "html",
+        "relative_path": "outputs/utils/clock.html",
+        "description": "clock object"
+    },
+    "Player1AC": {
+        "key": "ac_player1_image",
+        "type": "image",
+        "relative_path": "outputs/images/ac_player1.png",
+        "description": "AC image file for player 1"
+    },
+    "Player2AC": {
+        "key": "ac_player2_image",
+        "type": "image",
+        "relative_path": "outputs/images/ac_player2.png",
+        "description": "AC image file for player 2"
+    },
+    "CardViewBackground": {
+        "key": "cardview_background_image",
+        "type": "image",
+        "relative_path": "resources/images/neon_background.png",
+        "description": "Background image for CardView"
+    },
+    "Player1Comment": {
+        "key": "comment_player1_text",
+        "type": "text",
+        "relative_path": "outputs/texts/comment_player1.txt",
+        "description": "Comment from Player 1"
+    },
+    "Player2Comment": {
+        "key": "comment_player2_text",
+        "type": "text",
+        "relative_path": "outputs/texts/comment_player2.txt",
+        "description": "Comment from Player 2"
+    },
+    "Map1Image": {
+        "key": "map1_image",
+        "type": "image",
+        "relative_path": "outputs/images/map1.png",
+        "description": "Map 1 iamge"
+    },
+    "Map2Image": {
+        "key": "map2_image",
+        "type": "image",
+        "relative_path": "outputs/images/map2.png",
+        "description": "Map 2 iamge"
+    },
+    "Map3Image": {
+        "key": "map3_image",
+        "type": "image",
+        "relative_path": "outputs/images/map3.png",
+        "description": "Map 3 iamge"
+    },
+    "Map4Image": {
+        "key": "map4_image",
+        "type": "imaeg",
+        "relative_path": "outputs/images/map4.png",
+        "description": "Map 4 iamge"
+    },
+    "Map5Image": {
+        "key": "map5_image",
+        "type": "image",
+        "relative_path": "outputs/images/map5.png",
+        "description": "Map 5 iamge"
+    },
+    "Map1Name": {
+        "key": "map1_text",
+        "type": "text",
+        "relative_path": "outputs/texts/map1.txt",
+        "description": "Map 1 name"
+    },
+    "Map2Name": {
+        "key": "map2_text",
+        "type": "text",
+        "relative_path": "outputs/texts/map2.txt",
+        "description": "Map 2 name"
+    },
+    "Map3Name": {
+        "key": "map3_text",
+        "type": "text",
+        "relative_path": "outputs/texts/map3.txt",
+        "description": "Map 3 name"
+    },
+    "Map4Name": {
+        "key": "map4_text",
+        "type": "text",
+        "relative_path": "outputs/texts/map4.txt",
+        "description": "Map 4 name"
+    },
+    "Map5Name": {
+        "key": "map5_text",
+        "type": "text",
+        "relative_path": "outputs/texts/map5.txt",
+        "description": "Map 5 name"
+    },
+    "Player1Star1": {
+        "key": "player1-star1_image",
+        "type": "image",
+        "relative_path": "outputs/images/player1-star1.png",
+        "description": "Star 1 for player 1 score"
+    },
+    "Player1Star2": {
+        "key": "player1-star2_image",
+        "type": "image",
+        "relative_path": "outputs/images/player1-star2.png",
+        "description": "Star 2 for player 1 score"
+    },
+    "Player1Star3": {
+        "key": "player1-star3_image",
+        "type": "image",
+        "relative_path": "outputs/images/player1-star3.png",
+        "description": "Star 3 for player 1 score"
+    },
+    "Player2Star1": {
+        "key": "player2-star1_image",
+        "type": "image",
+        "relative_path": "outputs/images/player2-star1.png",
+        "description": "Star 1 for player 2 score"
+    },
+    "Player2Star2": {
+        "key": "player2-star2_image",
+        "type": "image",
+        "relative_path": "outputs/images/player2-star2.png",
+        "description": "Star 2 for player 2 score"
+    },
+    "Player2Star3": {
+        "key": "player2-star3_image",
+        "type": "image",
+        "relative_path": "outputs/images/player2-star3.png",
+        "description": "Star 3 for player 2 score"
+    },
+    "MatchInfo": {
+        "key": "match_info_text",
+        "type": "text",
+        "relative_path": "outputs/texts/match_info.txt",
+        "description": "Match info such as Round# and BO#"
+    },
+    "Player1Name": {
+        "key": "player1_text",
+        "type": "text",
+        "relative_path": "outputs/texts/player_1.txt",
+        "description": "Player 1 name"
+    },
+    "Player2Name": {
+        "key": "player2_text",
+        "type": "text",
+        "relative_path": "outputs/texts/player_2.txt",
+        "description": "Player 2 name"
+    }
+}
+
+
