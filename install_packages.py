@@ -6,8 +6,7 @@ packages = [
     'streamlit',
     'PySide6',
     'pandas',
-    'numpy',
-    'PIL'
+    'numpy'
 ]
 
 def install_pakcages():
@@ -17,7 +16,7 @@ def install_pakcages():
 
     # Install packages
     for pkg in packages:
-        subprocess.run((['pip', 'install', pkg]))
+        subprocess.run((['python', '-m', 'pip', 'install', pkg]))
 
 if __name__ == '__main__':
     install_pakcages()
